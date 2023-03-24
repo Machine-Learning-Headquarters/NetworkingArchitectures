@@ -22,3 +22,5 @@ Is it possible to make more affordable network switches in the 10 Gb range? Is t
  A starting design might be an 8 port 1 GHz switch and see what it takes to expand ports and speed.  
  
  [Texas Instruments reference design](<https://www.ti.com/solution/data-center-switches#tech-docs> "Other networking resources available on TI as well")
+
+[PANIC](https://www.usenix.org/conference/osdi20/presentation/lin)
