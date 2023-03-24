@@ -23,4 +23,6 @@ Is it possible to make more affordable network switches in the 10 Gb range? Is t
  
  [Texas Instruments reference design](<https://www.ti.com/solution/data-center-switches#tech-docs> "Other networking resources available on TI as well")
 
-[PANIC](https://www.usenix.org/conference/osdi20/presentation/lin)
+ [PANIC](https://www.usenix.org/conference/osdi20/presentation/lin)
+
+ [FPGA NIC](https://spiral.imperial.ac.uk/bitstream/10044/1/86136/2/fpga2020switch.pdf)
