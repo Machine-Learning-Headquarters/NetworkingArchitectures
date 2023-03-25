@@ -22,7 +22,7 @@ Is it possible to make more affordable network switches in the 10 Gb range? Is t
  A starting design might be an 8 port 1 GHz switch and see what it takes to expand ports and speed.  
  
  [Texas Instruments reference design](<https://www.ti.com/solution/data-center-switches#tech-docs> "Other networking resources available on TI as well")
-https://github.com/Xilinx/open-nic
+ [OpenNIC](https://github.com/Xilinx/open-nic)
  [PANIC](https://www.usenix.org/conference/osdi20/presentation/lin)
-https://www.xilinx.com/products/boards-and-kits/1-6ogkf5.html
+ [XILINX Development NIC](https://www.xilinx.com/products/boards-and-kits/1-6ogkf5.html)
  [FPGA NIC](https://spiral.imperial.ac.uk/bitstream/10044/1/86136/2/fpga2020switch.pdf)
